@@ -1,0 +1,23 @@
+title: JekyllFramework
+subtitle: something about jekyll framework
+email: someid@mail.com
+
+# social accounts
+
+facebook: someid
+twitter: someotherid
+whatsapp: someothertypeofid
+instagram: someid
+
+
+url:
+baseurl: '/'
+
+markdown: kramdown
+
+
+exclude:
+- "*.gemspec"
+
+sass_dir: assets/bsd5
+style: compressed
